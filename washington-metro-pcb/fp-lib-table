@@ -1,0 +1,4 @@
+
+(fp_lib_table
+  (lib (name "washington-metro-pcb")(type KiCad)(uri "$(KIPRJMOD)/washington-metro-pcb.pretty")(options "")(descr ""))
+)
